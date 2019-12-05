@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/widget48"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    >
+
+    <EditText
+        android:id="@+id/edit1"
+        android:layout_width="261px"
+        android:layout_height="237px"
+        android:text="@string/edit1"
+        android:textSize="18sp"
+        >
+    </EditText>
+
+    <Button
+        android:id="@+id/recv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/RECV"
+        >
+    </Button>
+
+    <Button
+        android:id="@+id/send1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/SEND"
+        >
+    </Button>
+</LinearLayout>

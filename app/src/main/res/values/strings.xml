@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CAN通信</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="edit1"></string>
+    <string name="RECV">RECV</string>
+    <string name="SEND">SEND</string>
+</resources>
